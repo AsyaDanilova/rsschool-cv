@@ -1,16 +1,16 @@
-# Anastasiia (Asya) Danilova #
-## Junior Sofware Engineer ##
+# Anastasiia (Asya) Danilova
+## Junior Sofware Engineer
 ---
-### Contact Information ###
+### Contact Information
 
 * Phone: +370-660-43-989
 * E-mail: asya-1997@yandex.ru
 * Telegram: @Asya7991
-* [LinkedIn] (https://www.linkedin.com/in/anastasiia-danilova-2985b729a/)
-* [GitHub] (https://github.com/AsyaDanilova)
+* [LinkedIn](https://www.linkedin.com/in/anastasiia-danilova-2985b729a/)
+* [GitHub](https://github.com/AsyaDanilova)
 
 ---
-### Brief Summary ###
+### Brief Summary
 
 As a Senior Project Administrator at EPAM, I combine the roles of Business Analyst and administrator-engineer, utilizing extensive technical expertise.
 
@@ -20,7 +20,7 @@ I have rebuilt the Concur Request and Expense modules from the ground up, demons
 
 ---
 
-### Skills and Proficiency ###
+### Skills and Proficiency
 
 * HTML5, CSS3
 * JavaScript Basics
@@ -30,7 +30,7 @@ I have rebuilt the Concur Request and Expense modules from the ground up, demons
 
 ---
 
-### Code Example ###
+### Code Example
 
 ``` js
 function toggleCreateReport(sectionId) {
@@ -64,7 +64,7 @@ function toggleCreateReport(sectionId) {
 ```
 ---
 
-### Languages ###
+### Languages
 
 * Russian (native)
 * English (B2+)
