@@ -1,6 +1,5 @@
 # Anastasiia (Asya) Danilova
 ## Junior Sofware Engineer
----
 ### Contact Information
 
 * Phone: +370-660-43-989
