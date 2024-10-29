@@ -67,4 +67,4 @@ function toggleCreateReport(sectionId) {
 
 * Russian (native)
 * English (B2+)
-* Lithuanian (A1) 
+* Lithuanian (A1)
